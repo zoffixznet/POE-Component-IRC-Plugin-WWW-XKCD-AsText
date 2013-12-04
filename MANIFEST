@@ -1,0 +1,11 @@
+Build.PL
+Changes
+MANIFEST
+README
+lib/POE/Component/IRC/Plugin/WWW/XKCD/AsText.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+examples/xkcd_bot.pl
+Makefile.PL
+META.yml
