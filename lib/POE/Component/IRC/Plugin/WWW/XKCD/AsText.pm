@@ -3,7 +3,7 @@ package POE::Component::IRC::Plugin::WWW::XKCD::AsText;
 use warnings;
 use strict;
 
-our $VERSION = '0.002';
+our $VERSION = '0.004';
 
 use Carp;
 use POE qw(Component::WWW::XKCD::AsText);
